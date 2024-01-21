@@ -6,5 +6,5 @@ function increament() {
 }
 
 function updateDisplay() {
-  document.getElementById('counter').innerText = `Counter: ${count}`;
+  document.querySelector('.counter').innerText = `Counter: ${count}`;
 }
