@@ -1,6 +1,6 @@
 let count = 0;
 
-function increment() {
+function increament() {
   count++;
   updateDisplay();
 }
